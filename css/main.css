@@ -7,6 +7,13 @@
 /* Wide Mobile Layout: 480px */
 /* Section Gaps css
 ============================================================================================ */
+.top-head{
+  font-style:initial;
+  font-size: large;
+}
+
+
+
 .no-padding {
   padding: 0; }
 
